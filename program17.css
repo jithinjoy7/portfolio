@@ -1,0 +1,7 @@
+div{
+    border: 2px solid red;
+    background-color: aqua;
+    width: 400px;
+    padding: 40px;
+    transform: scaleX(2);
+}
